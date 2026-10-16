@@ -1,0 +1,1187 @@
+unit_id,unit_name,year,entity
+101116,South University-Montgomery,2015,Education Management Corporation
+101365,Herzing University-Birmingham,2015,Herzing Inc.
+104586,Embry-Riddle Aeronautical University-Prescott,2015,104586
+107071,Henderson State University,2015,107071
+111948,Chapman University,2015,Chapman University
+115773,Humphreys College-Stockton and Modesto Campuses,2015,Humphreys College
+119775,Newschool of Architecture and Design,2015,Laureate Education Inc.
+122296,Samuel Merritt University,2015,Sutter Health
+125231,Walden University,2015,Laureate Education Inc.
+126827,Colorado Technical University-Colorado Springs,2015,Career Education Corporation
+131803,Strayer University-District of Columbia,2015,Strayer Education Inc.
+133465,South University-West Palm Beach,2015,Education Management Corporation
+133553,Embry-Riddle Aeronautical University-Daytona Beach,2015,133553
+134811,AI Miami International University of Art and Design,2015,Education Management Corporation
+136330,Palm Beach Atlantic University,2015,Palm Beach Atlantic University Inc.
+138309,Rasmussen College-Florida,2015,Rasmussen College Inc.
+138813,The Art Institute of Atlanta,2015,Education Management Corporation
+139579,South University-Savannah,2015,Education Management Corporation
+140340,Herzing University-Atlanta,2015,Herzing Inc.
+146755,Trinity College of Nursing & Health Sciences,2015,Trinity Medical Center - Iowa Health
+149763,Resurrection University,2015,Resurrection Health Care
+153409,Kaplan University-Mason City Campus,2015,Kaplan Higher Education Corporation
+153418,Kaplan University-Cedar Rapids Campus,2015,Kaplan Higher Education Corporation
+153977,Mercy College of Health Sciences,2015,Catholic Health Initiatives
+154022,Ashford University,2015,Bridgepoint Education
+157021,American National University-Lexington,2015,National College
+160940,Kaplan University-Maine Campus,2015,Kaplan Higher Education Corporation
+162681,Kaplan University-Hagerstown Campus,2015,Kaplan Higher Education Corporation
+174154,Herzing University-Minneapolis,2015,Herzing Inc.
+175014,Rasmussen College-Minnesota,2015,Rasmussen College Inc.
+176770,Cox College,2015,CoxHealth
+178989,Research College of Nursing,2015,Rockhurst University
+181242,Kaplan University-Lincoln Campus,2015,Kaplan Higher Education Corporation
+181400,Kaplan University-Omaha Campus,2015,Kaplan Higher Education Corporation
+190415,Cornell University,2015,190415
+196592,Touro College,2015,Touro College and University System
+198978,Miller-Motte College-Wilmington,2015,Delta Career Education Corporation
+200013,Rasmussen College-North Dakota,2015,Rasmussen College Inc.
+200785,Akron Institute of Herzing University,2015,Herzing Inc.
+207254,Spartan College of Aeronautics and Technology,2015,207254
+209065,Linfield College-McMinnville Campus,2015,Linfield College
+212197,Elizabethtown College,2015,Elizabethtown College
+212993,Hussian College School of Art,2015,Hussian School of Art Inc.
+215637,The Restaurant School at Walnut Hill College,2015,Liberatoscioli Inc.
+217484,University of Rhode Island,2015,Rhode Island Board of Education
+219000,Augustana University,2015,Augustana College Association
+219602,Austin Peay State University,2015,The State University and Community College System of Tennessee
+220002,Daymar Institute-Nashville,2015,Daymar Colleges Group
+220075,East Tennessee State University,2015,The State University and Community College System of Tennessee
+220862,University of Memphis,2015,The State University and Community College System of Tennessee
+220978,Middle Tennessee State University,2015,The State University and Community College System of Tennessee
+221838,Tennessee State University,2015,The State University and Community College System of Tennessee
+221847,Tennessee Technological University,2015,The State University and Community College System of Tennessee
+222938,The Art Institute of Houston,2015,Education Management Corporation
+223083,Baptist Health System School of Health Professions,2015,Baptist Health System VHS San Antonio Partners LLC
+224004,Concordia University-Texas,2015,Concordia University System
+224776,South University-The Art Institute of Dallas,2015,Education Management Corporation
+226833,Midwestern State University,2015,226833
+230056,Broadview University-West Jordan,2015,Broadview Institute Inc.
+231420,Averett University,2015,Averett University
+233356,Bon Secours Memorial College of Nursing,2015,Bon Secours Health System
+233684,Strayer University-Virginia,2015,Strayer Education Inc.
+240392,Herzing University-Madison,2015,Herzing Inc.
+244233,City College-Fort Lauderdale,2015,City College Inc.
+251312,South University-Columbia,2015,Education Management Corporation
+260901,Kaplan University-Davenport Campus,2015,Kaplan Higher Education Corporation
+260910,Kaplan University-Cedar Falls Campus,2015,Kaplan Higher Education Corporation
+262086,Brandman University,2015,Chapman University
+363439,Daymar College-Bowling Green,2015,Daymar Colleges Group
+367024,Kaplan University-Des Moines Campus,2015,Kaplan Higher Education Corporation
+368443,Daymar Institute-Clarksville,2015,Daymar Colleges Group
+372073,Fremont College,2015,372073
+386472,Herzing University-Winter Park,2015,Herzing Inc.
+399869,Southern California Institute of Technology,2015,Southern California Education Corporation
+413413,Capella University,2015,413413
+426314,Embry-Riddle Aeronautical University-Worldwide,2015,426314
+430184,Strayer University-Maryland,2015,Strayer Education Inc.
+433536,Herzing University-Kenner,2015,Herzing Inc.
+437316,Linfield College-School of Nursing,2015,Linfield College
+438586,American InterContinental University-Atlanta,2015,Career Education Corporation
+443410,DigiPen Institute of Technology,2015,Digipen Corporation
+443766,Strayer University-Tennessee,2015,Strayer Education Inc.
+443784,Strayer University-Pennsylvania,2015,Strayer Education Inc.
+444255,Daymar Institute-Murfreesboro,2015,Daymar Colleges Group
+445027,American InterContinental University-Online,2015,Career Education Corporation
+445133,American InterContinental University-Houston,2015,Career Education Corporation
+447050,United States University,2015,447050
+447263,AmeriTech College-Draper,2015,American Institute of Medical Dental Technology Inc.
+448673,Rasmussen College-Illinois,2015,Rasmussen College Inc.
+449038,Strayer University-Florida,2015,Strayer Education Inc.
+449898,South University-Tampa,2015,Education Management Corporation
+450298,Strayer University-Delaware,2015,Strayer Education Inc.
+450377,Strayer University-Alabama,2015,Strayer Education Inc.
+450571,Rasmussen College-Wisconsin,2015,Rasmussen College Inc.
+451820,The Art Institute of Austin,2015,Education Management Corporation
+453163,Strayer University-North Carolina,2015,Strayer Education Inc.
+453215,Strayer University-New Jersey,2015,Strayer Education Inc.
+454227,Chamberlain College of Nursing-Illinois,2015,Chamberlain College of Nursing & Health Sciences Inc.
+454236,Chamberlain College of Nursing-Ohio,2015,Chamberlain College of Nursing & Health Sciences Inc.
+454245,Chamberlain College of Nursing-Arizona,2015,Chamberlain College of Nursing & Health Sciences Inc.
+454829,Aspen University,2015,454829
+456621,Strayer University-West Virginia,2015,Strayer Education Inc.
+457022,Herzing University-Toledo,2015,Herzing Inc.
+457129,Chamberlain College of Nursing-Florida,2015,Chamberlain College of Nursing & Health Sciences Inc.
+458496,The Art Institute of Virginia Beach,2015,Education Management Corporation
+458885,Strayer University-Arkansas,2015,Strayer Education Inc.
+458919,Strayer University-Georgia,2015,Strayer Education Inc.
+458955,Strayer University-Mississippi,2015,Strayer Education Inc.
+458964,Strayer University-South Carolina,2015,Strayer Education Inc.
+458973,Strayer University-Texas,2015,Strayer Education Inc.
+458982,The Art Institute of San Antonio,2015,Education Management Corporation
+459259,South UniversityRichmond,2015,Education Management Corporation
+459268,South UniversityVirginia Beach,2015,Education Management Corporation
+459727,Touro University Worldwide,2015,Touro College and University System
+459824,Touro University Nevada,2015,Touro College and University System
+459842,Herzing University-Kenosha,2015,Herzing Inc.
+459851,Herzing University-Brookfield,2015,Herzing Inc.
+459994,Strayer University-Global Region,2015,Strayer Education Inc.
+460871,Chamberlain College of Nursing-Virginia,2015,Chamberlain College of Nursing & Health Sciences Inc.
+466921,Chamberlain College of Nursing-Missouri,2015,Chamberlain College of Nursing & Health Sciences Inc.
+466930,Chamberlain College of Nursing-Texas,2015,Chamberlain College of Nursing & Health Sciences Inc.
+475121,South UniversitySavannah Online,2015,Education Management Corporation
+475732,Chamberlain College of Nursing-Georgia,2015,Chamberlain College of Nursing & Health Sciences Inc.
+475741,Chamberlain College of Nursing-Indiana,2015,Chamberlain College of Nursing & Health Sciences Inc.
+480064,Kaplan University-Augusta Campus,2015,Kaplan Higher Education Corporation
+480073,South University-Austin,2015,Education Management Corporation
+480657,Rasmussen College-Kansas,2015,Rasmussen College Inc.
+481720,South University-High Point,2015,Education Management Corporation
+482413,DeVry College of New York,2015,DeVry University Inc.
+482422,DeVry University-Arizona,2015,DeVry University Inc.
+482431,DeVry University-California,2015,DeVry University Inc.
+482440,DeVry University-Colorado,2015,DeVry University Inc.
+482459,DeVry University-Florida,2015,DeVry University Inc.
+482468,DeVry University-Georgia,2015,DeVry University Inc.
+482477,DeVry University-Illinois,2015,DeVry University Inc.
+482486,DeVry University-Indiana,2015,DeVry University Inc.
+482538,DeVry University-Missouri,2015,DeVry University Inc.
+482547,DeVry University-Nevada,2015,DeVry University Inc.
+482556,DeVry University-New Jersey,2015,DeVry University Inc.
+482565,DeVry University-North Carolina,2015,DeVry University Inc.
+482574,DeVry University-Ohio,2015,DeVry University Inc.
+482583,DeVry University-Oklahoma,2015,DeVry University Inc.
+482608,DeVry University-Pennsylvania,2015,DeVry University Inc.
+482617,DeVry University-Tennessee,2015,DeVry University Inc.
+482635,DeVry University-Texas,2015,DeVry University Inc.
+482653,DeVry University-Virginia,2015,DeVry University Inc.
+486938,Chamberlain College of Nursing-Nevada,2015,Chamberlain College of Nursing & Health Sciences Inc.
+486947,Chamberlain College of Nursing-Michigan,2015,Chamberlain College of Nursing & Health Sciences Inc.
+486956,Chamberlain College of Nursing-New Jersey,2015,Chamberlain College of Nursing & Health Sciences Inc.
+486965,Hussian College-Relativity Campus California,2015,Hussian School of Art Inc.
+101116,South University-Montgomery,2016,Education Management Corporation
+101365,Herzing University-Birmingham,2016,Herzing Inc.
+104586,Embry-Riddle Aeronautical University-Prescott,2016,Embry-Riddle Aeronautical University Inc.
+107071,Henderson State University,2016,107071
+111948,Chapman University,2016,Chapman University
+115773,Humphreys University-Stockton and Modesto Campuses,2016,115773
+119775,Newschool of Architecture and Design,2016,Laureate Education Inc.
+122296,Samuel Merritt University,2016,Sutter Health
+125231,Walden University,2016,Laureate Education Inc.
+126827,Colorado Technical University-Colorado Springs,2016,Career Education Corporation
+131803,Strayer University-District of Columbia,2016,Strayer Education Inc.
+133465,South University-West Palm Beach,2016,Education Management Corporation
+133553,Embry-Riddle Aeronautical University-Daytona Beach,2016,Embry-Riddle Aeronautical University Inc.
+134811,AI Miami International University of Art and Design,2016,Education Management Corporation
+136330,Palm Beach Atlantic University,2016,Palm Beach Atlantic University Inc.
+138309,Rasmussen College-Florida,2016,Rasmussen College Inc.
+138813,The Art Institute of Atlanta,2016,Education Management Corporation
+139579,South University-Savannah,2016,Education Management Corporation
+140340,Herzing University-Atlanta,2016,Herzing Inc.
+146755,Trinity College of Nursing & Health Sciences,2016,146755
+149763,Resurrection University,2016,Resurrection Health Care
+153409,Kaplan University-Mason City Campus,2016,Kaplan Higher Education Corporation
+153418,Kaplan University-Cedar Rapids Campus,2016,Kaplan Higher Education Corporation
+153977,Mercy College of Health Sciences,2016,Catholic Health Initiatives
+154022,Ashford University,2016,Bridgepoint Education
+157021,American National University-Lexington,2016,American National University
+160940,Kaplan University-Maine Campus,2016,Kaplan Higher Education Corporation
+162681,Kaplan University-Hagerstown Campus,2016,Kaplan Higher Education Corporation
+174154,Herzing University-Minneapolis,2016,Herzing Inc.
+175014,Rasmussen College-Minnesota,2016,Rasmussen College Inc.
+176770,Cox College,2016,CoxHealth
+178989,Research College of Nursing,2016,Rockhurst University
+181242,Kaplan University-Lincoln Campus,2016,Kaplan Higher Education Corporation
+181400,Kaplan University-Omaha Campus,2016,Kaplan Higher Education Corporation
+190415,Cornell University,2016,190415
+196592,Touro College,2016,Touro College and University System
+198978,Miller-Motte College-Wilmington,2016,Delta Career Education Corporation
+200013,Rasmussen College-North Dakota,2016,Rasmussen College Inc.
+200785,Herzing University-Akron,2016,Herzing Inc.
+207254,Spartan College of Aeronautics and Technology,2016,207254
+209065,Linfield College-McMinnville Campus,2016,Linfield College
+212197,Elizabethtown College,2016,Elizabethtown College
+212993,Hussian College School of Art,2016,Hussian School of Art Inc.
+215637,The Restaurant School at Walnut Hill College,2016,Liberatoscioli Inc.
+217484,University of Rhode Island,2016,Rhode Island Board of Education
+219000,Augustana University,2016,Augustana College Association
+219602,Austin Peay State University,2016,The State University and Community College System of Tennessee
+220002,Daymar College-Nashville,2016,Daymar Colleges Group
+220075,East Tennessee State University,2016,The State University and Community College System of Tennessee
+220862,University of Memphis,2016,The State University and Community College System of Tennessee
+220978,Middle Tennessee State University,2016,The State University and Community College System of Tennessee
+221838,Tennessee State University,2016,The State University and Community College System of Tennessee
+221847,Tennessee Technological University,2016,The State University and Community College System of Tennessee
+222938,The Art Institute of Houston,2016,Education Management Corporation
+223083,Baptist Health System School of Health Professions,2016,Baptist Health System VHS San Antonio Partners LLC
+224004,Concordia University-Texas,2016,Concordia University System
+224776,South University-The Art Institute of Dallas,2016,Education Management Corporation
+226833,Midwestern State University,2016,226833
+230056,Broadview University-West Jordan,2016,Broadview Institute Inc.
+231420,Averett University,2016,Averett University
+233356,Bon Secours Memorial College of Nursing,2016,Bon Secours Health System
+233684,Strayer University-Virginia,2016,Strayer Education Inc.
+240392,Herzing University-Madison,2016,Herzing Inc.
+244233,City College-Fort Lauderdale,2016,City College Inc.
+251312,South University-Columbia,2016,Education Management Corporation
+260901,Kaplan University-Davenport Campus,2016,Kaplan Higher Education Corporation
+260910,Kaplan University-Cedar Falls Campus,2016,Kaplan Higher Education Corporation
+262086,Brandman University,2016,Chapman University
+363439,Daymar College-Bowling Green,2016,Daymar Colleges Group
+367024,Kaplan University-Des Moines Campus,2016,Kaplan Higher Education Corporation
+368443,Daymar College-Clarksville,2016,Daymar Colleges Group
+372073,Fremont College,2016,372073
+386472,Herzing University-Winter Park,2016,Herzing Inc.
+399869,Southern California Institute of Technology,2016,Southern California Education Corporation
+413413,Capella University,2016,413413
+426314,Embry-Riddle Aeronautical University-Worldwide,2016,Embry-Riddle Aeronautical University Inc.
+430184,Strayer University-Maryland,2016,Strayer Education Inc.
+433536,Herzing University-Kenner,2016,Herzing Inc.
+437316,Linfield College-School of Nursing,2016,Linfield College
+438586,American InterContinental University-Atlanta,2016,Career Education Corporation
+443410,DigiPen Institute of Technology,2016,Digipen Corporation
+443766,Strayer University-Tennessee,2016,Strayer Education Inc.
+443784,Strayer University-Pennsylvania,2016,Strayer Education Inc.
+444255,Daymar College-Murfreesboro,2016,Daymar Colleges Group
+445027,American InterContinental University-Online,2016,Career Education Corporation
+445133,American InterContinental University-Houston,2016,Career Education Corporation
+447050,United States University,2016,447050
+447263,AmeriTech College-Draper,2016,American Institute of Medical Dental Technology Inc.
+448673,Rasmussen College-Illinois,2016,Rasmussen College Inc.
+449038,Strayer University-Florida,2016,Strayer Education Inc.
+449898,South University-Tampa,2016,Education Management Corporation
+450298,Strayer University-Delaware,2016,Strayer Education Inc.
+450377,Strayer University-Alabama,2016,Strayer Education Inc.
+450571,Rasmussen College-Wisconsin,2016,Rasmussen College Inc.
+451820,The Art Institute of Austin,2016,Education Management Corporation
+453163,Strayer University-North Carolina,2016,Strayer Education Inc.
+453215,Strayer University-New Jersey,2016,Strayer Education Inc.
+454227,Chamberlain College of Nursing-Illinois,2016,Chamberlain College of Nursing & Health Sciences Inc.
+454236,Chamberlain College of Nursing-Ohio,2016,Chamberlain College of Nursing & Health Sciences Inc.
+454245,Chamberlain College of Nursing-Arizona,2016,Chamberlain College of Nursing & Health Sciences Inc.
+454829,Aspen University,2016,454829
+456621,Strayer University-West Virginia,2016,Strayer Education Inc.
+457022,Herzing University-Toledo,2016,Herzing Inc.
+457129,Chamberlain College of Nursing-Florida,2016,Chamberlain College of Nursing & Health Sciences Inc.
+458496,The Art Institute of Virginia Beach,2016,Education Management Corporation
+458885,Strayer University-Arkansas,2016,Strayer Education Inc.
+458919,Strayer University-Georgia,2016,Strayer Education Inc.
+458955,Strayer University-Mississippi,2016,Strayer Education Inc.
+458964,Strayer University-South Carolina,2016,Strayer Education Inc.
+458973,Strayer University-Texas,2016,Strayer Education Inc.
+458982,The Art Institute of San Antonio,2016,Education Management Corporation
+459259,South UniversityRichmond,2016,Education Management Corporation
+459268,South UniversityVirginia Beach,2016,Education Management Corporation
+459727,Touro University Worldwide,2016,Touro College and University System
+459824,Touro University Nevada,2016,Touro College and University System
+459842,Herzing University-Kenosha,2016,Herzing Inc.
+459851,Herzing University-Brookfield,2016,Herzing Inc.
+459994,Strayer University-Global Region,2016,Strayer Education Inc.
+460871,Chamberlain College of Nursing-Virginia,2016,Chamberlain College of Nursing & Health Sciences Inc.
+466921,Chamberlain College of Nursing-Missouri,2016,Chamberlain College of Nursing & Health Sciences Inc.
+466930,Chamberlain College of Nursing-Texas,2016,Chamberlain College of Nursing & Health Sciences Inc.
+475121,South UniversitySavannah Online,2016,Education Management Corporation
+475732,Chamberlain College of Nursing-Georgia,2016,Chamberlain College of Nursing & Health Sciences Inc.
+475741,Chamberlain College of Nursing-Indiana,2016,Chamberlain College of Nursing & Health Sciences Inc.
+480064,Kaplan University-Augusta Campus,2016,Kaplan Higher Education Corporation
+480073,South University-Austin,2016,Education Management Corporation
+480657,Rasmussen College-Kansas,2016,Rasmussen College Inc.
+481720,South University-High Point,2016,Education Management Corporation
+482413,DeVry College of New York,2016,DeVry University Inc.
+482422,DeVry University-Arizona,2016,DeVry University Inc.
+482431,DeVry University-California,2016,DeVry University Inc.
+482440,DeVry University-Colorado,2016,DeVry University Inc.
+482459,DeVry University-Florida,2016,DeVry University Inc.
+482468,DeVry University-Georgia,2016,DeVry University Inc.
+482477,DeVry University-Illinois,2016,DeVry University Inc.
+482486,DeVry University-Indiana,2016,DeVry University Inc.
+482538,DeVry University-Missouri,2016,DeVry University Inc.
+482547,DeVry University-Nevada,2016,DeVry University Inc.
+482556,DeVry University-New Jersey,2016,DeVry University Inc.
+482565,DeVry University-North Carolina,2016,DeVry University Inc.
+482574,DeVry University-Ohio,2016,DeVry University Inc.
+482583,DeVry University-Oklahoma,2016,DeVry University Inc.
+482608,DeVry University-Pennsylvania,2016,DeVry University Inc.
+482617,DeVry University-Tennessee,2016,DeVry University Inc.
+482635,DeVry University-Texas,2016,DeVry University Inc.
+482653,DeVry University-Virginia,2016,DeVry University Inc.
+486938,Chamberlain College of Nursing-Nevada,2016,Chamberlain College of Nursing & Health Sciences Inc.
+486947,Chamberlain College of Nursing-Michigan,2016,Chamberlain College of Nursing & Health Sciences Inc.
+486956,Chamberlain College of Nursing-New Jersey,2016,Chamberlain College of Nursing & Health Sciences Inc.
+486965,Hussian College-Relativity Campus California,2016,Hussian School of Art Inc.
+489344,Chamberlain College of Nursing-North Carolina,2016,Chamberlain College of Nursing & Health Sciences Inc.
+489353,Chamberlain College of Nursing-California,2016,Chamberlain College of Nursing & Health Sciences Inc.
+489779,Kaplan University-Indianapolis,2016,Kaplan Higher Education Corporation
+489788,Kaplan University-Milwaukee,2016,Kaplan Higher Education Corporation
+101116,South University-Montgomery,2017,Education Management Corporation
+101365,Herzing University-Birmingham,2017,"Herzing University, LTD."
+104586,Embry-Riddle Aeronautical University-Prescott,2017,Embry-Riddle Aeronautical University Inc.
+107071,Henderson State University,2017,107071
+111948,Chapman University,2017,Chapman University
+115773,Humphreys University-Stockton and Modesto Campuses,2017,115773
+119775,Newschool of Architecture and Design,2017,Laureate Education Inc.
+122296,Samuel Merritt University,2017,Sutter Health
+125231,Walden University,2017,Laureate Education Inc.
+126827,Colorado Technical University-Colorado Springs,2017,Career Education Corporation
+131803,Strayer University-District of Columbia,2017,Strayer Education Inc.
+133465,South University-West Palm Beach,2017,Education Management Corporation
+133553,Embry-Riddle Aeronautical University-Daytona Beach,2017,Embry-Riddle Aeronautical University Inc.
+134811,AI Miami International University of Art and Design,2017,Education Management Corporation
+136330,Palm Beach Atlantic University,2017,Palm Beach Atlantic University Inc.
+138309,Rasmussen College-Florida,2017,Rasmussen College Inc.
+138813,The Art Institute of Atlanta,2017,Education Management Corporation
+139579,South University-Savannah,2017,Education Management Corporation
+140340,Herzing University-Atlanta,2017,"Herzing University, LTD."
+146755,Trinity College of Nursing & Health Sciences,2017,146755
+149763,Resurrection University,2017,149763
+153409,Kaplan University-Mason City Campus,2017,Kaplan Higher Education Corporation
+153418,Kaplan University-Cedar Rapids Campus,2017,Kaplan Higher Education Corporation
+153977,Mercy College of Health Sciences,2017,153977
+154022,Ashford University,2017,Bridgepoint Education
+157021,American National University-Lexington,2017,American National University
+160940,Kaplan University-Maine Campus,2017,Kaplan Higher Education Corporation
+162681,Kaplan University-Hagerstown Campus,2017,Kaplan Higher Education Corporation
+174154,Herzing University-Minneapolis,2017,"Herzing University, LTD."
+175014,Rasmussen College-Minnesota,2017,Rasmussen College Inc.
+176770,Cox College,2017,176770
+178989,Research College of Nursing,2017,Rockhurst University
+181242,Kaplan University-Lincoln Campus,2017,Kaplan Higher Education Corporation
+181400,Kaplan University-Omaha Campus,2017,Kaplan Higher Education Corporation
+190415,Cornell University,2017,190415
+196592,Touro College,2017,Touro College and University System
+198978,Miller-Motte College-Wilmington,2017,Delta Career Education Corporation
+200013,Rasmussen College-North Dakota,2017,Rasmussen College Inc.
+200785,Herzing University-Akron,2017,"Herzing University, LTD."
+207254,Spartan College of Aeronautics and Technology,2017,"Spartan Education Group, LLC"
+209065,Linfield College-McMinnville Campus,2017,Linfield College
+212197,Elizabethtown College,2017,Elizabethtown College
+212993,Hussian College School of Art,2017,Hussian School of Art Inc.
+215637,The Restaurant School at Walnut Hill College,2017,Liberatoscioli Inc.
+217484,University of Rhode Island,2017,Rhode Island Board of Education
+219000,Augustana University,2017,Augustana College Association
+219602,Austin Peay State University,2017,219602
+220002,Daymar College-Nashville,2017,Daymar Colleges Group
+220075,East Tennessee State University,2017,220075
+220862,University of Memphis,2017,220862
+220978,Middle Tennessee State University,2017,220978
+221838,Tennessee State University,2017,221838
+221847,Tennessee Technological University,2017,221847
+222938,The Art Institute of Houston,2017,Education Management Corporation
+223083,Baptist Health System School of Health Professions,2017,223083
+224004,Concordia University Texas,2017,Concordia University System
+224776,South University-The Art Institute of Dallas,2017,Education Management Corporation
+226833,Midwestern State University,2017,226833
+230056,Broadview University-West Jordan,2017,Broadview Institute Inc.
+231420,Averett University,2017,Averett University
+233356,Bon Secours Memorial College of Nursing,2017,Bon Secours Health System
+233684,Strayer University-Virginia,2017,Strayer Education Inc.
+240392,Herzing University-Madison,2017,"Herzing University, LTD."
+244233,City College-Fort Lauderdale,2017,City College Inc.
+251312,South University-Columbia,2017,Education Management Corporation
+260901,Kaplan University-Davenport Campus,2017,Kaplan Higher Education Corporation
+260910,Kaplan University-Cedar Falls Campus,2017,Kaplan Higher Education Corporation
+262086,Brandman University,2017,Chapman University
+363439,Daymar College-Bowling Green,2017,Daymar Colleges Group
+367024,Kaplan University-Des Moines Campus,2017,Kaplan Higher Education Corporation
+368443,Daymar College-Clarksville,2017,Daymar Colleges Group
+372073,Fremont College,2017,372073
+386472,Herzing University-Winter Park,2017,"Herzing University, LTD."
+399869,Southern California Institute of Technology,2017,399869
+413413,Capella University,2017,413413
+426314,Embry-Riddle Aeronautical University-Worldwide,2017,Embry-Riddle Aeronautical University Inc.
+430184,Strayer University-Maryland,2017,Strayer Education Inc.
+433536,Herzing University-Kenner,2017,"Herzing University, LTD."
+437316,Linfield College-School of Nursing,2017,Linfield College
+438586,American InterContinental University-Atlanta,2017,Career Education Corporation
+443410,DigiPen Institute of Technology,2017,Digipen Corporation
+443766,Strayer University-Tennessee,2017,Strayer Education Inc.
+443784,Strayer University-Pennsylvania,2017,Strayer Education Inc.
+444255,Daymar College-Murfreesboro,2017,Daymar Colleges Group
+445027,American InterContinental University,2017,Career Education Corporation
+445133,American InterContinental University-Houston,2017,Career Education Corporation
+447050,United States University,2017,447050
+447263,AmeriTech College-Draper,2017,American Institute of Medical Dental Technology Inc.
+448673,Rasmussen College-Illinois,2017,Rasmussen College Inc.
+449038,Strayer University-Florida,2017,Strayer Education Inc.
+449898,South University-Tampa,2017,Education Management Corporation
+450298,Strayer University-Delaware,2017,Strayer Education Inc.
+450377,Strayer University-Alabama,2017,Strayer Education Inc.
+450571,Rasmussen College-Wisconsin,2017,Rasmussen College Inc.
+451820,The Art Institute of Austin,2017,Education Management Corporation
+453163,Strayer University-North Carolina,2017,Strayer Education Inc.
+453215,Strayer University-New Jersey,2017,Strayer Education Inc.
+454227,Chamberlain University-Illinois,2017,Adtalem Global Education
+454236,Chamberlain University-Ohio,2017,Adtalem Global Education
+454245,Chamberlain University-Arizona,2017,Adtalem Global Education
+454829,Aspen University,2017,454829
+456621,Strayer University-West Virginia,2017,Strayer Education Inc.
+457022,Herzing University-Toledo,2017,"Herzing University, LTD."
+457129,Chamberlain University-Florida,2017,Adtalem Global Education
+458496,The Art Institute of Virginia Beach,2017,Education Management Corporation
+458885,Strayer University-Arkansas,2017,Strayer Education Inc.
+458919,Strayer University-Georgia,2017,Strayer Education Inc.
+458955,Strayer University-Mississippi,2017,Strayer Education Inc.
+458964,Strayer University-South Carolina,2017,Strayer Education Inc.
+458973,Strayer University-Texas,2017,Strayer Education Inc.
+458982,The Art Institute of San Antonio,2017,Education Management Corporation
+459259,South UniversityRichmond,2017,Education Management Corporation
+459268,South UniversityVirginia Beach,2017,Education Management Corporation
+459727,Touro University Worldwide,2017,Touro College and University System
+459824,Touro University Nevada,2017,Touro College and University System
+459842,Herzing University-Kenosha,2017,"Herzing University, LTD."
+459851,Herzing University-Brookfield,2017,"Herzing University, LTD."
+459994,Strayer University-Global Region,2017,Strayer Education Inc.
+460871,Chamberlain University-Virginia,2017,Adtalem Global Education
+466921,Chamberlain University-Missouri,2017,Adtalem Global Education
+466930,Chamberlain University-Texas,2017,Adtalem Global Education
+475121,South UniversitySavannah Online,2017,Education Management Corporation
+475732,Chamberlain University-Georgia,2017,Adtalem Global Education
+475741,Chamberlain University-Indiana,2017,Adtalem Global Education
+480064,Kaplan University-Augusta Campus,2017,Kaplan Higher Education Corporation
+480073,South University-Austin,2017,Education Management Corporation
+480657,Rasmussen College-Kansas,2017,Rasmussen College Inc.
+481720,South University-High Point,2017,Education Management Corporation
+482413,DeVry College of New York,2017,Adtalem Global Education
+482422,DeVry University-Arizona,2017,Adtalem Global Education
+482431,DeVry University-California,2017,Adtalem Global Education
+482440,DeVry University-Colorado,2017,Adtalem Global Education
+482459,DeVry University-Florida,2017,Adtalem Global Education
+482468,DeVry University-Georgia,2017,Adtalem Global Education
+482477,DeVry University-Illinois,2017,Adtalem Global Education
+482486,DeVry University-Indiana,2017,Adtalem Global Education
+482538,DeVry University-Missouri,2017,Adtalem Global Education
+482547,DeVry University-Nevada,2017,Adtalem Global Education
+482556,DeVry University-New Jersey,2017,Adtalem Global Education
+482565,DeVry University-North Carolina,2017,Adtalem Global Education
+482574,DeVry University-Ohio,2017,Adtalem Global Education
+482583,DeVry University-Oklahoma,2017,Adtalem Global Education
+482608,DeVry University-Pennsylvania,2017,Adtalem Global Education
+482617,DeVry University-Tennessee,2017,Adtalem Global Education
+482635,DeVry University-Texas,2017,Adtalem Global Education
+482653,DeVry University-Virginia,2017,Adtalem Global Education
+486938,Chamberlain University-Nevada,2017,Adtalem Global Education
+486947,Chamberlain University-Michigan,2017,Adtalem Global Education
+486956,Chamberlain University-New Jersey,2017,Adtalem Global Education
+486965,Hussian College-Relativity Campus California,2017,Hussian School of Art Inc.
+489344,Chamberlain University-North Carolina,2017,Chamberlain University LLC
+489353,Chamberlain University-California,2017,Adtalem Global Education
+489779,Kaplan University-Indianapolis,2017,Kaplan Higher Education Corporation
+489788,Kaplan University-Milwaukee,2017,Kaplan Higher Education Corporation
+490771,Kaplan University-St. Louis,2017,Kaplan Higher Education Corporation
+101116,South University-Montgomery,2018,Education Management Corporation
+101365,Herzing University-Birmingham,2018,"Herzing University, LTD."
+104586,Embry-Riddle Aeronautical University-Prescott,2018,Embry-Riddle Aeronautical University Inc.
+107071,Henderson State University,2018,107071
+111948,Chapman University,2018,Chapman University
+115773,Humphreys University-Stockton and Modesto Campuses,2018,115773
+119775,Newschool of Architecture and Design,2018,Laureate Education Inc.
+122296,Samuel Merritt University,2018,Sutter Health
+125231,Walden University,2018,Laureate Education Inc.
+126827,Colorado Technical University-Colorado Springs,2018,Career Education Corporation
+131803,Strayer University-District of Columbia,2018,"Strategic Education, Inc."
+133465,South University-West Palm Beach,2018,Education Management Corporation
+133553,Embry-Riddle Aeronautical University-Daytona Beach,2018,Embry-Riddle Aeronautical University Inc.
+134811,AI Miami International University of Art and Design,2018,Education Management Corporation
+136330,Palm Beach Atlantic University,2018,Palm Beach Atlantic University Inc.
+138309,Rasmussen College-Florida,2018,Rasmussen College Inc.
+138813,The Art Institute of Atlanta,2018,Education Management Corporation
+139579,South University-Savannah,2018,Education Management Corporation
+140340,Herzing University-Atlanta,2018,"Herzing University, LTD."
+146755,Trinity College of Nursing & Health Sciences,2018,146755
+149763,Resurrection University,2018,149763
+153409,Purdue University Global-Mason City,2018,The Trustees of Purdue University
+153418,Purdue University Global-Cedar Rapids,2018,The Trustees of Purdue University
+153977,Mercy College of Health Sciences,2018,153977
+154022,Ashford University,2018,Bridgepoint Education
+157021,American National University-Lexington,2018,American National University
+160940,Purdue University Global-Lewiston,2018,The Trustees of Purdue University
+162681,Purdue University Global-Hagerstown,2018,The Trustees of Purdue University
+174154,Herzing University-Minneapolis,2018,"Herzing University, LTD."
+175014,Rasmussen College-Minnesota,2018,Rasmussen College Inc.
+176770,Cox College,2018,176770
+178989,Research College of Nursing,2018,Rockhurst University
+181242,Purdue University Global-Lincoln,2018,The Trustees of Purdue University
+181400,Purdue University Global-Omaha,2018,The Trustees of Purdue University
+190415,Cornell University,2018,Cornell University
+196592,Touro College,2018,Touro College and University System
+198978,Platt College-Miller-Motte-Wilmington,2018,STVT-AAI Education Inc.
+200013,Rasmussen College-North Dakota,2018,Rasmussen College Inc.
+200785,Herzing University-Akron,2018,"Herzing University, LTD."
+207254,Spartan College of Aeronautics and Technology,2018,"Spartan Education Group, LLC"
+209065,Linfield College-McMinnville Campus,2018,Linfield College
+212197,Elizabethtown College,2018,Elizabethtown College
+212993,Hussian College School of Art,2018,Hussian School of Art Inc.
+215637,The Restaurant School at Walnut Hill College,2018,Liberatoscioli Inc.
+217484,University of Rhode Island,2018,Rhode Island Board of Education
+219000,Augustana University,2018,Augustana College Association
+219602,Austin Peay State University,2018,219602
+220002,Hussian College-Daymar College Nashville,2018,Daymar Colleges Group
+220075,East Tennessee State University,2018,220075
+220862,University of Memphis,2018,220862
+220978,Middle Tennessee State University,2018,220978
+221838,Tennessee State University,2018,221838
+221847,Tennessee Technological University,2018,221847
+222938,The Art Institute of Houston,2018,Education Management Corporation
+223083,Baptist Health System School of Health Professions,2018,223083
+224004,Concordia University Texas,2018,Concordia University System
+224660,Western Technical College,2018,224660
+224679,Western Technical College,2018,224679
+226833,Midwestern State University,2018,226833
+230056,Broadview University-West Jordan,2018,Broadview Institute Inc.
+231420,Averett University,2018,Averett University
+233356,Bon Secours Memorial College of Nursing,2018,Bon Secours Health System
+233684,Strayer University-Virginia,2018,"Strategic Education, Inc."
+240392,Herzing University-Madison,2018,"Herzing University, LTD."
+244233,City College-Fort Lauderdale,2018,City College Inc.
+251312,South University-Columbia,2018,Education Management Corporation
+260901,Purdue University Global-Davenport,2018,The Trustees of Purdue University
+260910,Purdue University Global-Cedar Falls,2018,The Trustees of Purdue University
+262086,Brandman University,2018,Chapman University
+363439,Hussian College-Daymar College Bowling Green,2018,Daymar Colleges Group
+367024,Purdue University Global-Des Moines,2018,The Trustees of Purdue University
+368443,Hussian College-Daymar College Clarksville,2018,Daymar Colleges Group
+372073,Fremont College,2018,372073
+386472,Herzing University-Winter Park,2018,"Herzing University, LTD."
+399869,Southern California Institute of Technology,2018,399869
+413413,Capella University,2018,"Strategic Education, Inc."
+426314,Embry-Riddle Aeronautical University-Worldwide,2018,Embry-Riddle Aeronautical University Inc.
+430184,Strayer University-Maryland,2018,"Strategic Education, Inc."
+433536,Herzing University-Kenner,2018,"Herzing University, LTD."
+437316,Linfield College-School of Nursing,2018,Linfield College
+437325,Linfield College-Online and Continuing Education,2018,Linfield College
+438586,American InterContinental University-Atlanta,2018,Career Education Corporation
+443410,DigiPen Institute of Technology,2018,Digipen Corporation
+443766,Strayer University-Tennessee,2018,"Strategic Education, Inc."
+443784,Strayer University-Pennsylvania,2018,"Strategic Education, Inc."
+444255,Hussian College-Daymar College Murfreesboro,2018,Daymar Colleges Group
+445027,American InterContinental University,2018,Career Education Corporation
+445133,American InterContinental University-Houston,2018,Career Education Corporation
+447050,United States University,2018,Aspen Group
+447263,AmeriTech College-Draper,2018,American Institute of Medical Dental Technology Inc.
+448673,Rasmussen College-Illinois,2018,Rasmussen College Inc.
+449038,Strayer University-Florida,2018,"Strategic Education, Inc."
+449898,South University-Tampa,2018,Education Management Corporation
+450298,Strayer University-Delaware,2018,"Strategic Education, Inc."
+450377,Strayer University-Alabama,2018,"Strategic Education, Inc."
+450571,Rasmussen College-Wisconsin,2018,Rasmussen College Inc.
+451820,The Art Institute of Austin,2018,Education Management Corporation
+453163,Strayer University-North Carolina,2018,"Strategic Education, Inc."
+453215,Strayer University-New Jersey,2018,"Strategic Education, Inc."
+454227,Chamberlain University-Illinois,2018,Adtalem Global Education
+454236,Chamberlain University-Ohio,2018,Adtalem Global Education
+454245,Chamberlain University-Arizona,2018,Adtalem Global Education
+454829,Aspen University,2018,Aspen Group
+456621,Strayer University-West Virginia,2018,"Strategic Education, Inc."
+457022,Herzing University-Toledo,2018,"Herzing University, LTD."
+457129,Chamberlain University-Florida,2018,Adtalem Global Education
+458496,The Art Institute of Virginia Beach,2018,Education Management Corporation
+458885,Strayer University-Arkansas,2018,"Strategic Education, Inc."
+458919,Strayer University-Georgia,2018,"Strategic Education, Inc."
+458955,Strayer University-Mississippi,2018,"Strategic Education, Inc."
+458964,Strayer University-South Carolina,2018,"Strategic Education, Inc."
+458973,Strayer University-Texas,2018,"Strategic Education, Inc."
+458982,The Art Institute of San Antonio,2018,Education Management Corporation
+459259,South UniversityRichmond,2018,Education Management Corporation
+459268,South UniversityVirginia Beach,2018,Education Management Corporation
+459727,Touro University Worldwide,2018,Touro College and University System
+459824,Touro University Nevada,2018,Touro College and University System
+459842,Herzing University-Kenosha,2018,"Herzing University, LTD."
+459851,Herzing University-Brookfield,2018,"Herzing University, LTD."
+459994,Strayer University-Global Region,2018,"Strategic Education, Inc."
+460871,Chamberlain University-Virginia,2018,Adtalem Global Education
+466921,Chamberlain University-Missouri,2018,Adtalem Global Education
+466930,Chamberlain University-Texas,2018,Adtalem Global Education
+475121,South UniversitySavannah Online,2018,Education Management Corporation
+475732,Chamberlain University-Georgia,2018,Adtalem Global Education
+475741,Chamberlain University-Indiana,2018,Adtalem Global Education
+480064,Purdue University Global-Augusta,2018,The Trustees of Purdue University
+480073,South University-Austin,2018,Education Management Corporation
+480657,Rasmussen College-Kansas,2018,Rasmussen College Inc.
+481720,South University-High Point,2018,Education Management Corporation
+482413,DeVry College of New York,2018,Adtalem Global Education
+482422,DeVry University-Arizona,2018,Adtalem Global Education
+482431,DeVry University-California,2018,Adtalem Global Education
+482440,DeVry University-Colorado,2018,Adtalem Global Education
+482459,DeVry University-Florida,2018,Adtalem Global Education
+482468,DeVry University-Georgia,2018,Adtalem Global Education
+482477,DeVry University-Illinois,2018,Adtalem Global Education
+482486,DeVry University-Indiana,2018,Adtalem Global Education
+482538,DeVry University-Missouri,2018,Adtalem Global Education
+482547,DeVry University-Nevada,2018,Adtalem Global Education
+482556,DeVry University-New Jersey,2018,Adtalem Global Education
+482565,DeVry University-North Carolina,2018,Adtalem Global Education
+482574,DeVry University-Ohio,2018,Adtalem Global Education
+482608,DeVry University-Pennsylvania,2018,Adtalem Global Education
+482617,DeVry University-Tennessee,2018,Adtalem Global Education
+482635,DeVry University-Texas,2018,Adtalem Global Education
+482653,DeVry University-Virginia,2018,Adtalem Global Education
+486938,Chamberlain University-Nevada,2018,Adtalem Global Education
+486947,Chamberlain University-Michigan,2018,Adtalem Global Education
+486956,Chamberlain University-New Jersey,2018,Adtalem Global Education
+486965,Hussian College-Relativity Campus California,2018,Hussian School of Art Inc.
+489344,Chamberlain University-North Carolina,2018,Adtalem Global Education
+489353,Chamberlain University-California,2018,Adtalem Global Education
+489779,Purdue University Global-Indianapolis,2018,The Trustees of Purdue University
+489788,Purdue University Global-Milwaukee,2018,The Trustees of Purdue University
+490771,Purdue University Global-St. Louis,2018,The Trustees of Purdue University
+101116,South University-Montgomery,2019,Dream Center South University LLC
+101365,Herzing University-Birmingham,2019,"Herzing University, LTD."
+104586,Embry-Riddle Aeronautical University-Prescott,2019,Embry-Riddle Aeronautical University Inc.
+107071,Henderson State University,2019,107071
+111948,Chapman University,2019,Chapman University
+115773,Humphreys University-Stockton and Modesto Campuses,2019,115773
+119775,Newschool of Architecture and Design,2019,Laureate Education Inc.
+122296,Samuel Merritt University,2019,Sutter Health
+125231,Walden University,2019,Laureate Education Inc.
+126827,Colorado Technical University-Colorado Springs,2019,Career Education Corporation
+131803,Strayer University-District of Columbia,2019,"Strategic Education, Inc."
+133465,South University-West Palm Beach,2019,Dream Center South University LLC
+133553,Embry-Riddle Aeronautical University-Daytona Beach,2019,Embry-Riddle Aeronautical University Inc.
+134811,AI Miami International University of Art and Design,2019,Education Principle Foundation
+136330,Palm Beach Atlantic University,2019,Palm Beach Atlantic University Inc.
+138309,Rasmussen College-Florida,2019,Rasmussen College LLC
+138813,The Art Institute of Atlanta,2019,Education Principle Foundation
+139579,South University-Savannah,2019,Dream Center South University LLC
+140340,Herzing University-Atlanta,2019,"Herzing University, LTD."
+146755,Trinity College of Nursing & Health Sciences,2019,146755
+149763,Resurrection University,2019,149763
+153977,Mercy College of Health Sciences,2019,153977
+154022,Ashford University,2019,Bridgepoint Education
+157021,American National University-Lexington,2019,American National University
+174154,Herzing University-Minneapolis,2019,"Herzing University, LTD."
+175014,Rasmussen College-Minnesota,2019,Rasmussen College LLC
+176770,Cox College,2019,176770
+178989,Research College of Nursing,2019,Rockhurst University
+190415,Cornell University,2019,Cornell University
+196592,Touro College,2019,Touro College and University System
+198978,Platt College-Miller-Motte-Wilmington,2019,STVT-AAI Education Inc.
+200013,Rasmussen College-North Dakota,2019,Rasmussen College LLC
+200785,Herzing University-Akron,2019,"Herzing University, LTD."
+207254,Spartan College of Aeronautics and Technology,2019,"Spartan Education Group, LLC"
+209065,Linfield College-McMinnville Campus,2019,Linfield College
+212197,Elizabethtown College,2019,212197
+212993,Hussian College-Philadelphia,2019,Hussian School of Art Inc.
+215637,The Restaurant School at Walnut Hill College,2019,Liberatoscioli Inc.
+217484,University of Rhode Island,2019,Rhode Island Board of Education
+219000,Augustana University,2019,219000
+219602,Austin Peay State University,2019,219602
+220002,Hussian College-Daymar College Nashville,2019,Daymar Colleges Group
+220075,East Tennessee State University,2019,220075
+220862,University of Memphis,2019,220862
+220978,Middle Tennessee State University,2019,220978
+221838,Tennessee State University,2019,221838
+221847,Tennessee Technological University,2019,221847
+222938,The Art Institute of Houston,2019,Education Principle Foundation
+223083,Baptist Health System School of Health Professions,2019,223083
+224004,Concordia University Texas,2019,Concordia University System
+224660,Western Technical College,2019,El Paso Trade School INC DVA Western Technical College
+224679,Western Technical College,2019,El Paso Trade School INC DVA Western Technical College
+224776,Miami International University of Art & Design-Art Institute Dallas,2019,Education Principle Foundation
+226833,Midwestern State University,2019,226833
+230056,Broadview University-West Jordan,2019,230056
+231420,Averett University,2019,Averett University
+233356,Bon Secours Memorial College of Nursing,2019,Bon Secours Mercy Health
+233684,Strayer University-Virginia,2019,"Strategic Education, Inc."
+240392,Herzing University-Madison,2019,"Herzing University, LTD."
+244233,City College-Fort Lauderdale,2019,City College Inc.
+251312,South University-Columbia,2019,Dream Center South University LLC
+262086,Brandman University,2019,Chapman University
+363439,Hussian College-Daymar College Bowling Green,2019,Daymar Colleges Group
+368443,Hussian College-Daymar College Clarksville,2019,Daymar Colleges Group
+372073,Fremont College,2019,372073
+386472,Herzing University-Winter Park,2019,"Herzing University, LTD."
+399869,Southern California Institute of Technology,2019,399869
+413413,Capella University,2019,"Strategic Education, Inc."
+426314,Embry-Riddle Aeronautical University-Worldwide,2019,Embry-Riddle Aeronautical University Inc.
+430184,Strayer University-Maryland,2019,"Strategic Education, Inc."
+433536,Herzing University-Kenner,2019,"Herzing University, LTD."
+437316,Linfield College-School of Nursing,2019,Linfield College
+437325,Linfield College-Online and Continuing Education,2019,Linfield College
+438586,American InterContinental University-Atlanta,2019,Career Education Corporation
+443410,DigiPen Institute of Technology,2019,443410
+443766,Strayer University-Tennessee,2019,"Strategic Education, Inc."
+443784,Strayer University-Pennsylvania,2019,"Strategic Education, Inc."
+444255,Hussian College-Daymar College Murfreesboro,2019,Daymar Colleges Group
+444325,ATI College-Norwalk,2019,Adcon Technical Institute Inc.
+445027,American InterContinental University,2019,Career Education Corporation
+445133,American InterContinental University-Houston,2019,Career Education Corporation
+447050,United States University,2019,Aspen Group
+447263,AmeriTech College-Draper,2019,447263
+448673,Rasmussen College-Illinois,2019,Rasmussen College LLC
+449038,Strayer University-Florida,2019,"Strategic Education, Inc."
+449898,South University-Tampa,2019,Dream Center South University LLC
+450298,Strayer University-Delaware,2019,"Strategic Education, Inc."
+450377,Strayer University-Alabama,2019,"Strategic Education, Inc."
+450571,Rasmussen College-Wisconsin,2019,Rasmussen College LLC
+451820,The Art Institute of Austin,2019,Education Principle Foundation
+453163,Strayer University-North Carolina,2019,"Strategic Education, Inc."
+453215,Strayer University-New Jersey,2019,"Strategic Education, Inc."
+454227,Chamberlain University-Illinois,2019,Adtalem Global Education
+454236,Chamberlain University-Ohio,2019,Adtalem Global Education
+454245,Chamberlain University-Arizona,2019,Adtalem Global Education
+454829,Aspen University,2019,Aspen Group
+456621,Strayer University-West Virginia,2019,"Strategic Education, Inc."
+457129,Chamberlain University-Florida,2019,Adtalem Global Education
+458496,The Art Institute of Virginia Beach,2019,Education Principle Foundation
+458885,Strayer University-Arkansas,2019,"Strategic Education, Inc."
+458919,Strayer University-Georgia,2019,"Strategic Education, Inc."
+458955,Strayer University-Mississippi,2019,"Strategic Education, Inc."
+458964,Strayer University-South Carolina,2019,"Strategic Education, Inc."
+458973,Strayer University-Texas,2019,"Strategic Education, Inc."
+458982,The Art Institute of San Antonio,2019,Education Principle Foundation
+459259,South University-Richmond,2019,Dream Center South University LLC
+459268,South University-Virginia Beach,2019,Dream Center South University LLC
+459727,Touro University Worldwide,2019,Touro College and University System
+459824,Touro University Nevada,2019,Touro College and University System
+459842,Herzing University-Kenosha,2019,"Herzing University, LTD."
+459851,Herzing University-Brookfield,2019,"Herzing University, LTD."
+459994,Strayer University-Global Region,2019,"Strategic Education, Inc."
+460871,Chamberlain University-Virginia,2019,Adtalem Global Education
+466921,Chamberlain University-Missouri,2019,Adtalem Global Education
+466930,Chamberlain University-Texas,2019,Adtalem Global Education
+475121,South University-Savannah Online,2019,Dream Center South University LLC
+475732,Chamberlain University-Georgia,2019,Adtalem Global Education
+475741,Chamberlain University-Indiana,2019,Adtalem Global Education
+480073,South University-Austin,2019,Dream Center South University LLC
+480657,Rasmussen College-Kansas,2019,Rasmussen College LLC
+482413,DeVry College of New York,2019,Cogswell Capital
+482422,DeVry University-Arizona,2019,Cogswell Capital
+482431,DeVry University-California,2019,Cogswell Capital
+482440,DeVry University-Colorado,2019,Cogswell Capital
+482459,DeVry University-Florida,2019,Cogswell Capital
+482468,DeVry University-Georgia,2019,Cogswell Capital
+482477,DeVry University-Illinois,2019,Cogswell Capital
+482486,DeVry University-Indiana,2019,Cogswell Capital
+482538,DeVry University-Missouri,2019,Cogswell Capital
+482547,DeVry University-Nevada,2019,Cogswell Capital
+482556,DeVry University-New Jersey,2019,Cogswell Capital
+482565,DeVry University-North Carolina,2019,Cogswell Capital
+482574,DeVry University-Ohio,2019,Cogswell Capital
+482608,DeVry University-Pennsylvania,2019,Cogswell Capital
+482617,DeVry University-Tennessee,2019,Cogswell Capital
+482635,DeVry University-Texas,2019,Cogswell Capital
+482653,DeVry University-Virginia,2019,Cogswell Capital
+486938,Chamberlain University-Nevada,2019,Adtalem Global Education
+486947,Chamberlain University-Michigan,2019,Adtalem Global Education
+486956,Chamberlain University-New Jersey,2019,Adtalem Global Education
+486965,Hussian College-Los Angeles,2019,Hussian School of Art Inc.
+489344,Chamberlain University-North Carolina,2019,Adtalem Global Education
+489353,Chamberlain University-California,2019,Adtalem Global Education
+489779,Purdue University Global,2019,The Trustees of Purdue University
+101116,South University-Montgomery,2020,South University - Member LLC
+101365,Herzing University-Birmingham,2020,"Herzing University, LTD."
+104586,Embry-Riddle Aeronautical University-Prescott,2020,Embry-Riddle Aeronautical University Inc.
+107071,Henderson State University,2020,107071
+111948,Chapman University,2020,Chapman University
+115773,Humphreys University-Stockton and Modesto Campuses,2020,115773
+119775,Newschool of Architecture and Design,2020,119775
+122296,Samuel Merritt University,2020,Sutter Health
+125231,Walden University,2020,Laureate Education Inc.
+126827,Colorado Technical University-Colorado Springs,2020,Perdoceo Education Corporation
+131803,Strayer University-District of Columbia,2020,"Strategic Education, Inc."
+133465,South University-West Palm Beach,2020,South University - Member LLC
+133553,Embry-Riddle Aeronautical University-Daytona Beach,2020,Embry-Riddle Aeronautical University Inc.
+134811,AI Miami International University of Art and Design,2020,Education Principle Foundation
+136330,Palm Beach Atlantic University,2020,136330
+138309,Rasmussen University-Florida,2020,Rasmussen College LLC
+138813,The Art Institute of Atlanta,2020,Education Principle Foundation
+139579,South University-Savannah,2020,South University - Member LLC
+140340,Herzing University-Atlanta,2020,"Herzing University, LTD."
+146755,Trinity College of Nursing & Health Sciences,2020,146755
+149763,Resurrection University,2020,149763
+153977,Mercy College of Health Sciences,2020,153977
+154022,Ashford University,2020,ZOVIO
+157021,American National University-Pikeville,2020,American National University
+174154,Herzing University-Minneapolis,2020,"Herzing University, LTD."
+175014,Rasmussen University-Minnesota,2020,Rasmussen College LLC
+176770,Cox College,2020,176770
+178989,Research College of Nursing,2020,Rockhurst University
+190415,Cornell University,2020,Cornell University
+196592,Touro College,2020,Touro College and University System
+198978,Platt College-Miller-Motte-Wilmington,2020,STVT-AAI Education Inc.
+200013,Rasmussen University-North Dakota,2020,Rasmussen College LLC
+200785,Herzing University-Akron,2020,"Herzing University, LTD."
+207254,Spartan College of Aeronautics and Technology,2020,"Spartan Education Group, LLC"
+209065,Linfield University-McMinnville Campus,2020,Linfield College
+212197,Elizabethtown College,2020,212197
+212993,Hussian College-Philadelphia,2020,Hussian College Inc.
+215637,Walnut Hill College,2020,Liberatoscioli Inc.
+217484,University of Rhode Island,2020,Rhode Island Board of Education
+219000,Augustana University,2020,219000
+219602,Austin Peay State University,2020,219602
+220002,Hussian College-Daymar College Nashville,2020,Hussian College Inc.
+220075,East Tennessee State University,2020,220075
+220862,University of Memphis,2020,220862
+220978,Middle Tennessee State University,2020,220978
+221838,Tennessee State University,2020,221838
+221847,Tennessee Technological University,2020,221847
+222938,The Art Institute of Houston,2020,Education Principle Foundation
+223083,Baptist Health System School of Health Professions,2020,223083
+224004,Concordia University Texas,2020,Concordia University System
+224615,Dallas College,2020,Dallas County Community College District
+224660,Western Technical College,2020,El Paso Trade School INC DVA Western Technical College
+224679,Western Technical College,2020,El Paso Trade School INC DVA Western Technical College
+224776,Miami International University of Art & Design-Art Institute Dallas,2020,Education Principle Foundation
+226833,Midwestern State University,2020,226833
+230056,Broadview University-West Jordan,2020,230056
+231420,Averett University,2020,Averett University
+233356,Bon Secours Memorial College of Nursing,2020,Bon Secours Mercy Health
+233684,Strayer University-Virginia,2020,"Strategic Education, Inc."
+240392,Herzing University-Madison,2020,"Herzing University, LTD."
+244233,City College-Fort Lauderdale,2020,City College Inc.
+251312,South University-Columbia,2020,South University - Member LLC
+262086,Brandman University,2020,Chapman University
+363439,Hussian College-Daymar College Bowling Green,2020,Hussian College Inc.
+368443,Hussian College-Daymar College Clarksville,2020,Hussian College Inc.
+372073,Fremont College,2020,Select Education Group
+386472,Herzing University-Orlando,2020,"Herzing University, LTD."
+399869,Southern California Institute of Technology,2020,399869
+413413,Capella University,2020,"Strategic Education, Inc."
+426314,Embry-Riddle Aeronautical University-Worldwide,2020,Embry-Riddle Aeronautical University Inc.
+430184,Strayer University-Maryland,2020,"Strategic Education, Inc."
+433536,Herzing University-New Orleans,2020,"Herzing University, LTD."
+437316,Linfield University-School of Nursing,2020,Linfield College
+437325,Linfield University-Online and Continuing Education,2020,Linfield College
+438586,American InterContinental University-Atlanta,2020,Perdoceo Education Corporation
+443410,DigiPen Institute of Technology,2020,443410
+443766,Strayer University-Tennessee,2020,"Strategic Education, Inc."
+443784,Strayer University-Pennsylvania,2020,"Strategic Education, Inc."
+444255,Hussian College-Daymar College Murfreesboro,2020,Hussian College Inc.
+444325,ATI College-Norwalk,2020,444325
+445027,American InterContinental University,2020,Perdoceo Education Corporation
+445133,American InterContinental University-Houston,2020,Perdoceo Education Corporation
+447050,United States University,2020,Aspen Group
+447263,AmeriTech College-Draper,2020,447263
+448673,Rasmussen University-Illinois,2020,Rasmussen College LLC
+449038,Strayer University-Florida,2020,"Strategic Education, Inc."
+449898,South University-Tampa,2020,South University - Member LLC
+450298,Strayer University-Delaware,2020,"Strategic Education, Inc."
+450377,Strayer University-Alabama,2020,"Strategic Education, Inc."
+450571,Rasmussen University-Wisconsin,2020,Rasmussen College LLC
+451820,The Art Institute of Austin,2020,Education Principle Foundation
+453163,Strayer University-North Carolina,2020,"Strategic Education, Inc."
+453215,Strayer University-New Jersey,2020,"Strategic Education, Inc."
+454227,Chamberlain University-Illinois,2020,Adtalem Global Education
+454236,Chamberlain University-Ohio,2020,Adtalem Global Education
+454245,Chamberlain University-Arizona,2020,Adtalem Global Education
+454829,Aspen University,2020,Aspen Group
+456621,Strayer University-West Virginia,2020,"Strategic Education, Inc."
+457129,Chamberlain University-Florida,2020,Adtalem Global Education
+458496,The Art Institute of Virginia Beach,2020,Education Principle Foundation
+458885,Strayer University-Arkansas,2020,"Strategic Education, Inc."
+458919,Strayer University-Georgia,2020,"Strategic Education, Inc."
+458955,Strayer University-Mississippi,2020,"Strategic Education, Inc."
+458964,Strayer University-South Carolina,2020,"Strategic Education, Inc."
+458973,Strayer University-Texas,2020,"Strategic Education, Inc."
+458982,The Art Institute of San Antonio,2020,Education Principle Foundation
+459259,South University-Richmond,2020,South University - Member LLC
+459268,South University-Virginia Beach,2020,South University - Member LLC
+459727,Touro University Worldwide,2020,Touro College and University System
+459824,Touro University Nevada,2020,Touro College and University System
+459842,Herzing University-Kenosha,2020,"Herzing University, LTD."
+459851,Herzing University-Brookfield,2020,"Herzing University, LTD."
+459994,Strayer University-Global Region,2020,"Strategic Education, Inc."
+460871,Chamberlain University-Virginia,2020,Adtalem Global Education
+466921,Chamberlain University-Missouri,2020,Adtalem Global Education
+466930,Chamberlain University-Texas,2020,Adtalem Global Education
+475121,South University-Savannah Online,2020,South University - Member LLC
+475732,Chamberlain University-Georgia,2020,Adtalem Global Education
+475741,Chamberlain University-Indiana,2020,Adtalem Global Education
+480073,South University-Austin,2020,South University - Member LLC
+480657,Rasmussen University-Kansas,2020,Rasmussen College LLC
+481720,South University-High Point,2020,South University - Member LLC
+482413,DeVry College of New York,2020,Cogswell Capital
+482422,DeVry University-Arizona,2020,Cogswell Capital
+482431,DeVry University-California,2020,Cogswell Capital
+482440,DeVry University-Colorado,2020,Cogswell Capital
+482459,DeVry University-Florida,2020,Cogswell Capital
+482468,DeVry University-Georgia,2020,Cogswell Capital
+482477,DeVry University-Illinois,2020,Cogswell Capital
+482486,DeVry University-Indiana,2020,Cogswell Capital
+482538,DeVry University-Missouri,2020,Cogswell Capital
+482547,DeVry University-Nevada,2020,Cogswell Capital
+482556,DeVry University-New Jersey,2020,Cogswell Capital
+482565,DeVry University-North Carolina,2020,Cogswell Capital
+482574,DeVry University-Ohio,2020,Cogswell Capital
+482608,DeVry University-Pennsylvania,2020,Cogswell Capital
+482617,DeVry University-Tennessee,2020,Cogswell Capital
+482635,DeVry University-Texas,2020,Cogswell Capital
+482653,DeVry University-Virginia,2020,Cogswell Capital
+486938,Chamberlain University-Nevada,2020,Adtalem Global Education
+486947,Chamberlain University-Michigan,2020,Adtalem Global Education
+486956,Chamberlain University-New Jersey,2020,Adtalem Global Education
+486965,Hussian College-Los Angeles,2020,Hussian College Inc.
+489344,Chamberlain University-North Carolina,2020,Adtalem Global Education
+489353,Chamberlain University-California,2020,Adtalem Global Education
+489779,Purdue University Global,2020,The Trustees of Purdue University
+101116,South University-Montgomery,2021,South University - Member LLC
+101365,Herzing University-Birmingham,2021,"Herzing University, LTD."
+104586,Embry-Riddle Aeronautical University-Prescott,2021,Embry-Riddle Aeronautical University Inc.
+107071,Henderson State University,2021,Arkansas State University System
+111948,Chapman University,2021,111948
+115773,Humphreys University-Stockton and Modesto Campuses,2021,115773
+119775,Newschool of Architecture and Design,2021,119775
+122296,Samuel Merritt University,2021,Sutter Health
+125231,Walden University,2021,Adtalem Global Education
+126827,Colorado Technical University-Colorado Springs,2021,Perdoceo Education Corporation
+131803,Strayer University-District of Columbia,2021,"Strategic Education, Inc."
+133465,South University-West Palm Beach,2021,South University - Member LLC
+133553,Embry-Riddle Aeronautical University-Daytona Beach,2021,Embry-Riddle Aeronautical University Inc.
+134811,AI Miami International University of Art and Design,2021,Education Principle Foundation
+136330,Palm Beach Atlantic University,2021,136330
+138309,Rasmussen University-Florida,2021,Rasmussen College LLC
+138813,The Art Institute of Atlanta,2021,Education Principle Foundation
+139579,South University-Savannah,2021,South University - Member LLC
+140340,Herzing University-Atlanta,2021,"Herzing University, LTD."
+146755,Trinity College of Nursing & Health Sciences,2021,146755
+149763,Oak Point University,2021,149763
+153977,Mercy College of Health Sciences,2021,153977
+154022,Ashford University,2021,ZOVIO
+157021,American National University-Pikeville,2021,American National University
+174154,Herzing University-Minneapolis,2021,"Herzing University, LTD."
+175014,Rasmussen University-Minnesota,2021,Rasmussen College LLC
+176770,Cox College,2021,176770
+178989,Research College of Nursing,2021,Rockhurst University
+190415,Cornell University,2021,Cornell University
+196592,Touro College,2021,Touro College and University System
+198978,Miller-Motte College-Wilmington,2021,STVT-AAI Education Inc.
+200013,Rasmussen University-North Dakota,2021,Rasmussen College LLC
+200785,Herzing University-Akron,2021,"Herzing University, LTD."
+207254,Spartan College of Aeronautics and Technology,2021,"Spartan Education Group, LLC"
+209065,Linfield University-McMinnville Campus,2021,Linfield University
+212197,Elizabethtown College,2021,212197
+212993,Hussian College-Philadelphia,2021,Hussian College Inc.
+215637,Walnut Hill College,2021,Liberatoscioli Inc.
+217484,University of Rhode Island,2021,Rhode Island Board of Education
+219000,Augustana University,2021,219000
+219602,Austin Peay State University,2021,219602
+220002,Hussian College-Daymar College Nashville,2021,Hussian College Inc.
+220075,East Tennessee State University,2021,220075
+220862,University of Memphis,2021,220862
+220978,Middle Tennessee State University,2021,220978
+221838,Tennessee State University,2021,221838
+221847,Tennessee Technological University,2021,221847
+222938,The Art Institute of Houston,2021,Education Principle Foundation
+223083,Baptist Health System School of Health Professions,2021,223083
+224004,Concordia University Texas,2021,Concordia University System
+224615,Dallas College,2021,224615
+224660,Western Technical College,2021,El Paso Trade School INC DVA Western Technical College
+224679,Western Technical College,2021,El Paso Trade School INC DVA Western Technical College
+224776,Miami International University of Art & Design-Art Institute Dallas,2021,Education Principle Foundation
+226833,Midwestern State University,2021,Texas Tech University System
+230056,Broadview College,2021,230056
+231420,Averett University,2021,231420
+233356,Bon Secours Memorial College of Nursing,2021,Bon Secours Mercy Health
+233684,Strayer University-Virginia,2021,"Strategic Education, Inc."
+240392,Herzing University-Madison,2021,"Herzing University, LTD."
+244233,City College-Fort Lauderdale,2021,City College Inc.
+251312,South University-Columbia,2021,South University - Member LLC
+262086,University of Massachusetts Global,2021,262086
+368443,Hussian College-Daymar College Clarksville,2021,Hussian College Inc.
+372073,Fremont College,2021,Select Education Group
+386472,Herzing University-Orlando,2021,"Herzing University, LTD."
+399869,Southern California Institute of Technology,2021,399869
+413413,Capella University,2021,"Strategic Education, Inc."
+426314,Embry-Riddle Aeronautical University-Worldwide,2021,Embry-Riddle Aeronautical University Inc.
+430184,Strayer University-Maryland,2021,"Strategic Education, Inc."
+433536,Herzing University-New Orleans,2021,"Herzing University, LTD."
+437316,Linfield University-School of Nursing,2021,Linfield University
+437325,Linfield University-Online and Continuing Education,2021,Linfield University
+438586,American InterContinental University-Atlanta,2021,Perdoceo Education Corporation
+443410,DigiPen Institute of Technology,2021,443410
+443766,Strayer University-Tennessee,2021,"Strategic Education, Inc."
+443784,Strayer University-Pennsylvania,2021,"Strategic Education, Inc."
+444255,Hussian College-Daymar College Murfreesboro,2021,Hussian College Inc.
+444325,ATI College-Whittier,2021,444325
+445027,American InterContinental University,2021,Perdoceo Education Corporation
+445133,American InterContinental University-Houston,2021,Perdoceo Education Corporation
+447050,United States University,2021,Aspen Group
+447263,AmeriTech College-Draper,2021,447263
+448673,Rasmussen University-Illinois,2021,Rasmussen College LLC
+449038,Strayer University-Florida,2021,"Strategic Education, Inc."
+449898,South University-Tampa,2021,South University - Member LLC
+450298,Strayer University-Delaware,2021,"Strategic Education, Inc."
+450377,Strayer University-Alabama,2021,"Strategic Education, Inc."
+450571,Rasmussen University-Wisconsin,2021,Rasmussen College LLC
+451820,The Art Institute of Austin,2021,Education Principle Foundation
+453163,Strayer University-North Carolina,2021,"Strategic Education, Inc."
+453215,Strayer University-New Jersey,2021,"Strategic Education, Inc."
+454227,Chamberlain University-Illinois,2021,Adtalem Global Education
+454236,Chamberlain University-Ohio,2021,Adtalem Global Education
+454245,Chamberlain University-Arizona,2021,Adtalem Global Education
+454829,Aspen University,2021,Aspen Group
+456621,Strayer University-West Virginia,2021,"Strategic Education, Inc."
+457129,Chamberlain University-Florida,2021,Adtalem Global Education
+458496,The Art Institute of Virginia Beach,2021,Education Principle Foundation
+458885,Strayer University-Arkansas,2021,"Strategic Education, Inc."
+458919,Strayer University-Georgia,2021,"Strategic Education, Inc."
+458955,Strayer University-Mississippi,2021,"Strategic Education, Inc."
+458964,Strayer University-South Carolina,2021,"Strategic Education, Inc."
+458973,Strayer University-Texas,2021,"Strategic Education, Inc."
+458982,The Art Institute of San Antonio,2021,Education Principle Foundation
+459259,South University-Richmond,2021,South University - Member LLC
+459268,South University-Virginia Beach,2021,South University - Member LLC
+459727,Touro University Worldwide,2021,Touro College and University System
+459824,Touro University Nevada,2021,Touro College and University System
+459842,Herzing University-Kenosha,2021,"Herzing University, LTD."
+459851,Herzing University-Brookfield,2021,"Herzing University, LTD."
+459994,Strayer University-Global Region,2021,"Strategic Education, Inc."
+460871,Chamberlain University-Virginia,2021,Adtalem Global Education
+466921,Chamberlain University-Missouri,2021,Adtalem Global Education
+466930,Chamberlain University-Texas,2021,Adtalem Global Education
+475121,South University-Savannah Online,2021,South University - Member LLC
+475732,Chamberlain University-Georgia,2021,Adtalem Global Education
+475741,Chamberlain University-Indiana,2021,Adtalem Global Education
+480073,South University-Austin,2021,South University - Member LLC
+480657,Rasmussen University-Kansas,2021,Rasmussen College LLC
+481720,South University-High Point,2021,South University - Member LLC
+482413,DeVry College of New York,2021,Cogswell Capital
+482422,DeVry University-Arizona,2021,Cogswell Capital
+482431,DeVry University-California,2021,Cogswell Capital
+482440,DeVry University-Colorado,2021,Cogswell Capital
+482459,DeVry University-Florida,2021,Cogswell Capital
+482468,DeVry University-Georgia,2021,Cogswell Capital
+482477,DeVry University-Illinois,2021,Cogswell Capital
+482538,DeVry University-Missouri,2021,Cogswell Capital
+482547,DeVry University-Nevada,2021,Cogswell Capital
+482556,DeVry University-New Jersey,2021,Cogswell Capital
+482565,DeVry University-North Carolina,2021,Cogswell Capital
+482574,DeVry University-Ohio,2021,Cogswell Capital
+482608,DeVry University-Pennsylvania,2021,Cogswell Capital
+482617,DeVry University-Tennessee,2021,Cogswell Capital
+482635,DeVry University-Texas,2021,Cogswell Capital
+482653,DeVry University-Virginia,2021,Cogswell Capital
+486938,Chamberlain University-Nevada,2021,Adtalem Global Education
+486947,Chamberlain University-Michigan,2021,Adtalem Global Education
+486956,Chamberlain University-New Jersey,2021,Adtalem Global Education
+486965,Hussian College-Los Angeles,2021,Hussian College Inc.
+489344,Chamberlain University-North Carolina,2021,Adtalem Global Education
+489353,Chamberlain University-California,2021,Adtalem Global Education
+489779,Purdue University Global,2021,The Trustees of Purdue University
+101116,South University-Montgomery,2022,South University - Member LLC
+101365,Herzing University-Birmingham,2022,"Herzing University, LTD."
+104586,Embry-Riddle Aeronautical University-Prescott,2022,Embry-Riddle Aeronautical University Inc.
+107071,Henderson State University,2022,Arkansas State University System
+111948,Chapman University,2022,111948
+115773,Humphreys University-Stockton and Modesto Campuses,2022,115773
+119775,Newschool of Architecture and Design,2022,119775
+122296,Samuel Merritt University,2022,122296
+125231,Walden University,2022,Adtalem Global Education
+126827,Colorado Technical University-Colorado Springs,2022,Perdoceo Education Corporation
+131803,Strayer University-District of Columbia,2022,"Strategic Education, Inc."
+133465,South University-West Palm Beach,2022,South University - Member LLC
+133553,Embry-Riddle Aeronautical University-Daytona Beach,2022,Embry-Riddle Aeronautical University Inc.
+134811,AI Miami International University of Art and Design,2022,Education Principle Foundation
+136330,Palm Beach Atlantic University,2022,136330
+138309,Rasmussen University-Florida,2022,Rasmussen College LLC
+138813,The Art Institute of Atlanta,2022,Education Principle Foundation
+139579,South University-Savannah,2022,South University - Member LLC
+140340,Herzing University-Atlanta,2022,"Herzing University, LTD."
+146755,Trinity College of Nursing & Health Sciences,2022,146755
+149763,Oak Point University,2022,149763
+153977,Mercy College of Health Sciences,2022,153977
+154022,Ashford University,2022,ZOVIO
+157021,American National University-Pikeville,2022,American National University
+174154,Herzing University-Minneapolis,2022,"Herzing University, LTD."
+175014,Rasmussen University-Minnesota,2022,Rasmussen College LLC
+176770,Cox College,2022,176770
+178989,Research College of Nursing,2022,178989
+190415,Cornell University,2022,Cornell University
+196592,Touro University,2022,Touro University System
+198978,Miller-Motte College-Wilmington,2022,STVT-AAI Education Inc.
+200013,Rasmussen University-North Dakota,2022,Rasmussen College LLC
+200785,Herzing University-Akron,2022,"Herzing University, LTD."
+207254,Spartan College of Aeronautics and Technology,2022,"Spartan Education Group, LLC"
+209065,Linfield University,2022,209065
+212197,Elizabethtown College,2022,212197
+212993,Hussian College-Philadelphia,2022,Hussian College Inc.
+215637,Walnut Hill College,2022,215637
+217484,University of Rhode Island,2022,217484
+219000,Augustana University,2022,219000
+219602,Austin Peay State University,2022,219602
+220002,Hussian College-Daymar College Nashville,2022,Hussian College Inc.
+220075,East Tennessee State University,2022,220075
+220862,University of Memphis,2022,220862
+220978,Middle Tennessee State University,2022,220978
+221838,Tennessee State University,2022,221838
+221847,Tennessee Technological University,2022,221847
+222938,The Art Institute of Houston,2022,Education Principle Foundation
+223083,Baptist Health System School of Health Professions,2022,223083
+224004,Concordia University Texas,2022,224004
+224615,Dallas College,2022,224615
+224660,Western Technical College,2022,El Paso Trade School INC DVA Western Technical College
+224679,Western Technical College,2022,El Paso Trade School INC DVA Western Technical College
+224776,Miami International University of Art & Design-Art Institute Dallas,2022,Education Principle Foundation
+226833,Midwestern State University,2022,Texas Tech University System
+231420,Averett University,2022,231420
+233356,Bon Secours Memorial College of Nursing,2022,Bon Secours Mercy Health
+233684,Strayer University-Virginia,2022,"Strategic Education, Inc."
+240392,Herzing University-Madison,2022,"Herzing University, LTD."
+244233,City College-Fort Lauderdale,2022,"Allied Health Programs FL, LLC"
+251312,South University-Columbia,2022,South University - Member LLC
+262086,University of Massachusetts Global,2022,262086
+368443,Hussian College-Daymar College Clarksville,2022,Hussian College Inc.
+372073,Fremont University,2022,Select Education Group
+386472,Herzing University-Orlando,2022,"Herzing University, LTD."
+399869,Southern California Institute of Technology,2022,399869
+413413,Capella University,2022,"Strategic Education, Inc."
+426314,Embry-Riddle Aeronautical University-Worldwide,2022,Embry-Riddle Aeronautical University Inc.
+430184,Strayer University-Maryland,2022,"Strategic Education, Inc."
+433536,Herzing University-New Orleans,2022,"Herzing University, LTD."
+438586,American InterContinental University-Atlanta,2022,Perdoceo Education Corporation
+443410,DigiPen Institute of Technology,2022,443410
+443766,Strayer University-Tennessee,2022,"Strategic Education, Inc."
+443784,Strayer University-Pennsylvania,2022,"Strategic Education, Inc."
+444255,Hussian College-Daymar College Murfreesboro,2022,Hussian College Inc.
+444325,ATI College-Whittier,2022,444325
+445027,American InterContinental University,2022,Perdoceo Education Corporation
+445133,American InterContinental University-Houston,2022,Perdoceo Education Corporation
+447050,United States University,2022,Aspen Group
+447263,Joyce University of Nursing and Health Sciences,2022,447263
+448673,Rasmussen University-Illinois,2022,Rasmussen College LLC
+449038,Strayer University-Florida,2022,"Strategic Education, Inc."
+449898,South University-Tampa,2022,South University - Member LLC
+450298,Strayer University-Delaware,2022,"Strategic Education, Inc."
+450377,Strayer University-Alabama,2022,"Strategic Education, Inc."
+450571,Rasmussen University-Wisconsin,2022,Rasmussen College LLC
+451820,The Art Institute of Austin,2022,Education Principle Foundation
+453163,Strayer University-North Carolina,2022,"Strategic Education, Inc."
+453215,Strayer University-New Jersey,2022,"Strategic Education, Inc."
+454227,Chamberlain University-Illinois,2022,Adtalem Global Education
+454236,Chamberlain University-Ohio,2022,Adtalem Global Education
+454245,Chamberlain University-Arizona,2022,Adtalem Global Education
+454829,Aspen University,2022,Aspen Group
+456621,Strayer University-West Virginia,2022,"Strategic Education, Inc."
+457129,Chamberlain University-Florida,2022,Adtalem Global Education
+458496,The Art Institute of Virginia Beach,2022,Education Principle Foundation
+458885,Strayer University-Arkansas,2022,"Strategic Education, Inc."
+458919,Strayer University-Georgia,2022,"Strategic Education, Inc."
+458955,Strayer University-Mississippi,2022,"Strategic Education, Inc."
+458964,Strayer University-South Carolina,2022,"Strategic Education, Inc."
+458973,Strayer University-Texas,2022,"Strategic Education, Inc."
+458982,The Art Institute of San Antonio,2022,Education Principle Foundation
+459259,South University-Richmond,2022,South University - Member LLC
+459268,South University-Virginia Beach,2022,South University - Member LLC
+459727,Touro University Worldwide,2022,Touro University System
+459824,Touro University Nevada,2022,Touro University System
+459842,Herzing University-Kenosha,2022,"Herzing University, LTD."
+459851,Herzing University-Brookfield,2022,"Herzing University, LTD."
+459994,Strayer University-Global Region,2022,"Strategic Education, Inc."
+460871,Chamberlain University-Virginia,2022,Adtalem Global Education
+466921,Chamberlain University-Missouri,2022,Adtalem Global Education
+466930,Chamberlain University-Texas,2022,Adtalem Global Education
+475121,South University-Savannah Online,2022,South University - Member LLC
+475732,Chamberlain University-Georgia,2022,Adtalem Global Education
+475741,Chamberlain University-Indiana,2022,Adtalem Global Education
+480073,South University-Austin,2022,South University - Member LLC
+480657,Rasmussen University-Kansas,2022,Rasmussen College LLC
+481720,South University-High Point,2022,South University - Member LLC
+482413,DeVry College of New York,2022,Cogswell Capital
+482422,DeVry University-Arizona,2022,Cogswell Capital
+482431,DeVry University-California,2022,Cogswell Capital
+482459,DeVry University-Florida,2022,Cogswell Capital
+482468,DeVry University-Georgia,2022,Cogswell Capital
+482477,DeVry University-Illinois,2022,Cogswell Capital
+482547,DeVry University-Nevada,2022,Cogswell Capital
+482556,DeVry University-New Jersey,2022,Cogswell Capital
+482565,DeVry University-North Carolina,2022,Cogswell Capital
+482574,DeVry University-Ohio,2022,Cogswell Capital
+482635,DeVry University-Texas,2022,Cogswell Capital
+482653,DeVry University-Virginia,2022,Cogswell Capital
+486938,Chamberlain University-Nevada,2022,Adtalem Global Education
+486947,Chamberlain University-Michigan,2022,Adtalem Global Education
+486956,Chamberlain University-New Jersey,2022,Adtalem Global Education
+486965,Hussian College-Los Angeles,2022,Hussian College Inc.
+489344,Chamberlain University-North Carolina,2022,Adtalem Global Education
+489353,Chamberlain University-California,2022,Adtalem Global Education
+489779,Purdue University Global,2022,The Trustees of Purdue University

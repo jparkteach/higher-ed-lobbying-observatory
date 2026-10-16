@@ -1,0 +1,112 @@
+{
+  "source_file": "DISAGG_PANEL_2015_2024 2026.10.01.csv",
+  "sha256": "cabe717640649ad653d28768c0d8d3e4f70a22dde95c3350cd0d596100d4371d",
+  "source_rows": 22611,
+  "source_campuses": 2919,
+  "source_columns": [
+    "unit_id",
+    "unit_name",
+    "state",
+    "system_group",
+    "sector",
+    "year",
+    "lobbying_spend",
+    "lobbied",
+    "lobbying_method",
+    "budget",
+    "lobbying_pct_budget",
+    "federal_rd",
+    "rd_dependence_pct",
+    "pell",
+    "pell_dependence_pct",
+    "state_approp",
+    "fteug",
+    "total_enrollment",
+    "intl_pct",
+    "hisp_fte_pct",
+    "hsi",
+    "hbcu",
+    "tribal",
+    "msi",
+    "hospital",
+    "medical",
+    "landgrant",
+    "doctoral",
+    "aau",
+    "has_budget_data"
+  ],
+  "duplicate_campus_years": 0,
+  "observed_rows": 18220,
+  "pending_rows": 4391,
+  "pending_years": [
+    2023,
+    2024
+  ],
+  "observed_years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "observed_campuses": 2798,
+  "entity_count": 1850,
+  "systems": 250,
+  "standalones": 1600,
+  "ever_lobbied": 352,
+  "invalid_campus_budgets_observed": 657,
+  "invalid_entity_budgets_observed": 224,
+  "cross_missing_finance": 40,
+  "campus_rd_zero_ratio_blank": 16729,
+  "cross_ratios_above_100": 0,
+  "observed_imputed_rows": 6226,
+  "observed_imputed_spend_share": 0.3477706223557231,
+  "sector_changers": 13,
+  "campuses_with_group_changes": 160,
+  "stable_reporting_families": 1784,
+  "source_overlap_example": {
+    "year": 2015,
+    "direct_unit_id": 170976,
+    "direct_spend": 295000,
+    "allocated_unit_ids": [
+      171137,
+      171146
+    ],
+    "allocated_spend_total": 295000,
+    "status": "Potential overlapping filing: requires validation against original lobbying reports; retained as supplied."
+  },
+  "nominal_spend_total": 343304474.89,
+  "real_spend_total": 391978187.7407225,
+  "cpi": {
+    "2015": 237.017,
+    "2016": 240.007,
+    "2017": 245.12,
+    "2018": 251.107,
+    "2019": 255.657,
+    "2020": 258.811,
+    "2021": 270.97,
+    "2022": 292.655,
+    "2023": 304.702,
+    "2024": 313.689
+  },
+  "cpi_url": "https://www.bls.gov/regions/mid-atlantic/data/consumerpriceindexannualandsemiannual_table.htm",
+  "correlations": [
+    {
+      "sector": "For-profit",
+      "term": "pell_pct",
+      "n": 259,
+      "pearson_r": -0.026250441413064197,
+      "p": 0.6741276050309727
+    },
+    {
+      "sector": "Nonprofit",
+      "term": "rd",
+      "n": 1551,
+      "pearson_r": 0.6370835025095187,
+      "p": 2.346366777283093e-177
+    }
+  ]
+}

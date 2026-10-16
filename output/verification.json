@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "checks": [
+    "Unique reporting-group/year keys",
+    "Pending outcomes remain missing",
+    "Pending spending remains missing",
+    "Confirmed nonlobbyists have zero spending",
+    "Nominal spending reconciles with source audit",
+    "Constant-dollar spending reconciles",
+    "All 24 models converge with full-rank design matrices",
+    "All exported estimates and uncertainty are finite",
+    "All intervals bracket their point estimates",
+    "Main model exclusions reconcile to missing finances",
+    "OLS agrees with NumPy least squares",
+    "Binomial GLM agrees with independent Logit coefficients",
+    "Cross-sectional robust logit uncertainty agrees",
+    "Annual logistic estimates agree with independent Logit",
+    "Manual Bernoulli clustered sandwich agrees with statsmodels Logit clustering",
+    "Dashboard includes every reporting-group/year record",
+    "Dashboard serializes pending outcomes as null",
+    "Dashboard values reconcile with analysis tables"
+  ],
+  "models": 24,
+  "coefficients": 336,
+  "limitations": [
+    "Source filing deduplication and selection criteria not independently validated.",
+    "Dashboard interaction and layout checks are recorded separately in the task."
+  ]
+}

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.env
+.env.*
+.openai/
+sources/
+DISAGG_PANEL*.csv
+*.pdf
+analysis/dissertation.txt
+analysis/aggregation.png
